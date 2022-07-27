@@ -42,4 +42,7 @@ source ~/.bashrc
 Copy the last command to turn on the arm:
 
 roslaunch robot_arm_pkg check_motors.launch
+![IMG_4062](https://user-images.githubusercontent.com/108802123/181349028-c90b6b93-53db-433a-a32f-7404dbe46719.jpg)
+
+
 
