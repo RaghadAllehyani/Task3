@@ -11,7 +11,7 @@ catkin_make
 
 cd ~/catkin_ws/src
 
-Enter the arm package from the smart method account on GitHub by pasting it in the  terminal:
+Enter the arm package from the smart method account on GitHub by pasting it in the terminal:
 git clone https://github.com/smart-methods/arduino_robot_arm.git 
 
 Add dependencies: 
